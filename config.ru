@@ -1,0 +1,4 @@
+require './tmonitor'
+
+run Tmonitor
+
